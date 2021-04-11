@@ -1,0 +1,33 @@
+body {
+    text-align: center; 
+    background-color: greenyellow; 
+}
+h1 {
+    Font-size : 70px; 
+}
+div {
+    margin-top : 15px; 
+}
+.imagesection {
+    display : flex; 
+    justify-content: center; 
+}
+.sectione-style {
+    margin-right: 25px; 
+    margin-left: 25px; 
+    background-color: White; 
+}
+img {
+    width : 500px; 
+    height : 550px; 
+    border : solid 10px; 
+    padding : 10px;
+}
+p {
+    font-family: monospace;
+    font-size : 40px; 
+    background-color: aquamarine;
+        color : dodgerblue;  
+    font-weight : bold;
+    
+}
